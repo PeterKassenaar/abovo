@@ -7,4 +7,4 @@ Slides and sample code on the training Nuxt, Abovo Media, Spring 2025
 
 
 ## Links
-* ...
+* https://www.youtube.com/watch?v=8aGhZQkoFbQ - meer over de werking van de Javascript event loop en Queue/Stack.
