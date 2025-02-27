@@ -59,5 +59,9 @@ if (error.value) {
 } else {
   posts.value = myPosts.value || [];
 }
+
+// 5. Using $fetch() - a Nuxt-enhanced version of fetch(). No 
+// need to manually parse .json()
+const myData = await $fetch('/api/myData');
 ```
 
